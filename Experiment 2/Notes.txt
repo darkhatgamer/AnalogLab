@@ -1,0 +1,29 @@
+1.	Vpp 2.08V
+	Inp 1kHz 2 pp
+
+2.a 	Out Vpp 4.08V
+	Inp Vpp 2.08
+
+2.b	Inp Vpp 2.08V
+	Out Vpp 6.32
+	Calc theoretical and practical gain
+
+3	Inp 2.08 V
+	Out 2.08 V
+
+4a 	Out Vpp 3.96V
+	Inp Vpp 2.04V
+
+4b 	Vpp 2.08V both Inp and out
+	1. Peak of output voltage in AC coupling - one cursor
+	2. ⁠Peak of output voltage in DC coupling - one cursor
+	3. ⁠measure the difference = 1.20 V
+
+	When sine wave + 1 V DC is given
+
+5b	Vpp Inp and Out 2.08V
+	Shift 1.24V
+
+6 	7.6V output
+
+7	9.1
